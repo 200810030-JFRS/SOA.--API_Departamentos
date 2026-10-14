@@ -18,7 +18,6 @@ El proyecto utiliza Java y Spring Boot para implementar la lógica del servidor,
 - Exposición de endpoints HTTP para la comunicación con el cliente.
 - Pruebas funcionales mediante Postman.
 
-> Documentar únicamente las funcionalidades implementadas y verificadas.
 
 ## 3. Tecnologías utilizadas
 
